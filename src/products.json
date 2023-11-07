@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Mouse Logitech",
+		"description": "Mouse Gaming",
+		"price": "$30",
+		"thumbnail": "mouse.png",
+		"code": "AA6",
+		"stock": 23,
+		"id": 1
+	},
+	{
+		"title": "Teclado",
+		"description": "Teclado Gaming",
+		"price": "$50",
+		"thumbnail": "teclado.png",
+		"code": "AA2",
+		"stock": 7,
+		"id": 2
+	},
+	{
+		"title": "Monitor",
+		"description": "Monitor 144hz",
+		"price": "$250",
+		"thumbnail": "monitor.png",
+		"code": "AA3",
+		"stock": 5,
+		"id": 3
+	},
+	{
+		"title": "Monitor",
+		"description": "Monitor 144hz",
+		"price": "$250",
+		"thumbnail": "monitor.png",
+		"code": "AA5",
+		"stock": 5,
+		"id": 5
+	}
+]
